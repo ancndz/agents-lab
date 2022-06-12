@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Boot JADE application 3" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+    <module name="agents-lab-3" />
+    <option name="PROGRAM_PARAMETERS" value="-gui" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/agents-lab-3" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
